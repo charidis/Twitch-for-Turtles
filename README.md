@@ -25,7 +25,7 @@ The following REQUIRED features are completed:
 
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='ScreenRecording2024-11-09at12.30.05PM-ezgif.com-video-to-gif-converter.gif' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
